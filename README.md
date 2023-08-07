@@ -16,4 +16,4 @@ Remember, our database design is at the core of delivering a seamless experience
 
 Thank you for being a part of our journey.
 
-#  The StoryLink Team
+#### - The StoryLink Team
